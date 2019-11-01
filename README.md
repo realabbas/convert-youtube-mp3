@@ -1,4 +1,4 @@
-# Convert Youtube Video to MP3 format
+# Convert Youtube Video to MP3 🎶 format
 
 A python script to convert youtube video to mp3 format
 
